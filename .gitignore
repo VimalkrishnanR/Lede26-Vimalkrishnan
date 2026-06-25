@@ -1,9 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,python
 project1/index.html
-project1/scrolly-styles
-project1/1970.16_neck_amphora
-project1/black_figure
+project1/scrolly-styles.css
+project1/1970.16_neck_amphora.glb
+project1/black_figure.mp4
 
 ### macOS ###
 # General
