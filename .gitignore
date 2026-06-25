@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,python
-Project1/index.html
+project1/index.html
+project1/scrolly-styles
+project1/1970.16_neck_amphora
+project1/black_figure
+
 ### macOS ###
 # General
 .DS_Store
